@@ -3,14 +3,14 @@ Cessna 152
 
 ### Take-off
 
-### Freda
+### Freda
 
 ### HAT after turn
 
 ### Hasell
 
-### Pre-landing
+### Pre-landing
 
-### Downwind
+### Downwind
 
 ### Final
