@@ -3,7 +3,7 @@ General
 
 > **Always think ahead**
 
-### En-route
+### En-route
 
 - Freda checks every 20 minutes
 - HAT checks after each turn
@@ -11,7 +11,7 @@ General
 - Think when to contact what station - arrival, en-route, crossings
 - Where is the wind coming from?
 
-### Arriving at airfield
+### Arriving at airfield
 
 - Call for joining
 - Understand how to join
@@ -32,20 +32,20 @@ General
 Vx: 55kts
 Vy: 65kts
 
-### Climbing
+### Climbing
 
 - Full power
 - Higher nose to reach 65 knots
 - Level-off: lower nose, wait for speed to pick up, reduce power
 
-### Descending
+### Descending
 
 - Carb heat
 - Power to 1600RPM
 - Use attitude to control speed, power for rate of descent
 - Level-off: carb heat off, power back, nose up
 
-### Cold weather
+### Cold weather
 
 ### Lights
 
@@ -80,7 +80,6 @@ Manoeuvres
 - 1500 RPM
 - Higher attitude to cut speed to 55 knots
 - Increase/decrease power to keep altitude
-
 
 Emergency
 ---
