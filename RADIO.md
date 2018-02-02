@@ -1,7 +1,7 @@
 General Procedures
 ---
 
-### Five key radio positions
+### Five key radio positions
 
 1. Parked
 2. Holding
@@ -9,7 +9,7 @@ General Procedures
 4. Final
 5. Runway vacated
 
-### When to contact
+### When to contact
 
 - Long final: 4nm
 - Crossing MATZ: 15nm or 5min, whichever is the sooner
@@ -38,13 +38,13 @@ TODO
 Air/Ground
 ---
 
-### Joining
+### Joining
 
 ```
 Leicester Radio G-xxxx request airfield information
 ```
 
-### Leaving
+### Leaving
 
 ```
 Leicester Radio G-xxxx request taxi information
@@ -53,5 +53,5 @@ Leicester Radio G-xxxx request taxi information
 Useful frequencies
 ---
 
-Emergency frequency: 121.500
-Safetycom: 135.475
+- Emergency frequency: 121.500
+- Safetycom: 135.475
