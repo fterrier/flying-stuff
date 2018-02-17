@@ -18,6 +18,7 @@ See http://publicapps.caa.co.uk/docs/33/20130121SSL22.pdf
 - Crossing an airway: 10min before crossing point
 - Zone crossing: ?
 - Arriving at ATZ: within 10nm of aerodrome
+- ATC airfield: contact RADAR as soon as in range, APPROACH not greater than 25nm from the aerodrome
 - Saftycom: within 10nm of aerodrom and when not more than 2000ft of aerodrome or 1000ft above circuit height
 
 ### Initial call
