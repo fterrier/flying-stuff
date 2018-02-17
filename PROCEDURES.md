@@ -3,6 +3,10 @@ General
 
 > **Always think ahead**
 
+See https://publicapps.caa.co.uk/docs/33/20130121SSL06.pdf
+
+Circuit: final leg is about 1nm long.
+
 ### En-route
 
 - Freda checks every 20 minutes
@@ -12,9 +16,6 @@ General
 - Where is the wind coming from?
 
 ### Arriving at airfield
-
-See https://publicapps.caa.co.uk/docs/33/20130121SSL06.pdf
-Circuit: final leg is about 1nm long.
 
 - Call for joining
 - Understand how to join
@@ -52,6 +53,9 @@ Vy: 65kts
 
 ### Lights
 
+- Usually no need to use navigation lights, just in clouds and low visibility.
+- Landing lights and taxi lights for landing, switch off after vacating runway
+
 Manoeuvres
 ---
 
@@ -84,10 +88,30 @@ Manoeuvres
 - Higher attitude to cut speed to 55 knots
 - Increase/decrease power to keep altitude
 
+### Short take off
+
 Emergency
 ---
 
 ### PFL
+
+- Adopt best glide speed (65 kts)
+- Select field 
+-- Wind
+-- Obstacles
+-- Size
+-- Shape
+-- Stuff
+- Turn to downwind
+- Try to restart the engine
+-- Fuel valve, Mixture, Throttle, Carb heat, Magnetos, Master switch, Engage starter
+- Mayday call
+- Secure engine
+-- Fuel valve, Mixture, Throttle, Carb heat, Magnetos, Master switch off (flaps!), Open door
+- Always check
+-- If making field, add flaps
+-- If too long, adopt snake or more flaps (nose down to not stall)
+-- If too short, pull up (do not remove flaps)
 
 ### Control column failure
 
