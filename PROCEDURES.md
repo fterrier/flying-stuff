@@ -13,6 +13,9 @@ General
 
 ### Arriving at airfield
 
+See https://publicapps.caa.co.uk/docs/33/20130121SSL06.pdf
+Circuit: final leg is about 1nm long.
+
 - Call for joining
 - Understand how to join
 - Airfield approach checks
