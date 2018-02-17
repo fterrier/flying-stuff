@@ -97,21 +97,21 @@ Emergency
 
 - Adopt best glide speed (65 kts)
 - Select field 
--- Wind
--- Obstacles
--- Size
--- Shape
--- Stuff
+  - Wind
+  - Obstacles
+  - Size
+  - Shape
+  - Stuff
 - Turn to downwind
 - Try to restart the engine
--- Fuel valve, Mixture, Throttle, Carb heat, Magnetos, Master switch, Engage starter
+  - Fuel valve, Mixture, Throttle, Carb heat, Magnetos, Master switch, Engage starter
 - Mayday call
 - Secure engine
--- Fuel valve, Mixture, Throttle, Carb heat, Magnetos, Master switch off (flaps!), Open door
+  - Fuel valve, Mixture, Throttle, Carb heat, Magnetos, Master switch off (flaps!), Open door
 - Always check
--- If making field, add flaps
--- If too long, adopt snake or more flaps (nose down to not stall)
--- If too short, pull up (do not remove flaps)
+  - If making field, add flaps
+  - If too long, adopt snake or more flaps (nose down to not stall)
+  - If too short, pull up (do not remove flaps)
 
 ### Control column failure
 
